@@ -38,12 +38,12 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 3. Instale as dependências:
    ```
-   npm install
+   npx install expo
    ```
 
 4. Execute o aplicativo:
    ```
-   npm start
+   npx expo start
    ```
 
 ## Uso
@@ -51,7 +51,3 @@ Para instalar e executar o projeto, siga os passos abaixo:
 1. Abra o aplicativo em seu dispositivo ou emulador.
 2. Insira seu peso e altura nos campos correspondentes.
 3. Clique no botão "Calcular" para obter seu IMC e a classificação correspondente.
-
-## Contribuição
-
-Sinta-se à vontade para fazer fork deste repositório e enviar pull requests com melhorias ou correções.
