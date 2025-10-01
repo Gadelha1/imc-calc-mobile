@@ -7,7 +7,7 @@ Este projeto é um aplicativo React Native que calcula o Índice de Massa Corpor
 O projeto possui a seguinte estrutura de arquivos:
 
 ```
-mobile-imc
+imc-calc-mobile
 ├── src
 │   ├── components
 │   │   └── IMCCalculator.js       # Componente responsável pela lógica de cálculo do IMC e renderização da interface.
@@ -33,7 +33,7 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 2. Navegue até o diretório do projeto:
    ```
-   cd mobile-imc
+   cd imc-calc-mobile
    ```
 
 3. Instale as dependências:
